@@ -1,8 +1,9 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/ATS-v1.43.1.2-ff0000?style=for-the-badge" alt="American Truck Simulator">
-    <img src="https://img.shields.io/badge/ETS2-v1.43.1.2-orange?style=for-the-badge" alt="Euro Truck Simulator 2">
+    <img src="https://img.shields.io/badge/ATS-v1.43-ff0000?style=for-the-badge" alt="American Truck Simulator">
+    <img src="https://img.shields.io/badge/ETS2-v1.43-orange?style=for-the-badge" alt="Euro Truck Simulator 2">
     <img src="https://img.shields.io/badge/Promods-v2.60-e6e600?style=for-the-badge" alt="Promods for ETS2">
     <img src="https://img.shields.io/badge/PromodsCA-v1.1.1-00b300?style=for-the-badge" alt="Promods Canada for ATS">
+    <img src="https://img.shields.io/badge/Reforma-v2.2.5-00b300?style=for-the-badge" alt="Promods Canada for ATS">
 </p>
 
 # SCS Software Map Tile Collection
@@ -11,11 +12,11 @@ This is a basic repository for Custom Tiles to hold a collection of map tiles ge
 ## Supported Maps
 Game | Game Version | PM Version | Reforma Version
 --- | --- | --- | ---
-ATS | 1.43.x | 1.1.1 | 2.2.5
+ATS | 1.43 | 1.1.1 | 2.2.5
 
 Game | Game Version | PM Version | ME Version
 --- | --- | --- | ---
-ETS2 | 1.43.x | 2.60 | 2.60
+ETS2 | 1.43 | 2.60 | 2.60
 
 ### How To Use
 Place the URL below in your Custom Mod Tiles Link
